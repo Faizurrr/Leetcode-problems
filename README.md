@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Faizurrr/Leetcode-problems/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Faizurrr/Leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 <!---LeetCode Topics End-->
