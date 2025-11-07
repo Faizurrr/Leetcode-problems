@@ -41,17 +41,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Faizurrr/Leetcode-problems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Faizurrr/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Faizurrr/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Faizurrr/Leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Faizurrr/Leetcode-problems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Faizurrr/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Faizurrr/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Faizurrr/Leetcode-problems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Faizurrr/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Faizurrr/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Faizurrr/Leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4005-maximum-total-subarray-value-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/4005-maximum-total-subarray-value-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Faizurrr/Leetcode-problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
