@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Faizurrr/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Faizurrr/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Faizurrr/Leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Faizurrr/Leetcode-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/4005-maximum-total-subarray-value-i) |
 | [4107-find-missing-elements](https://github.com/Faizurrr/Leetcode-problems/tree/master/4107-find-missing-elements) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Faizurrr/Leetcode-problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Faizurrr/Leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Faizurrr/Leetcode-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
