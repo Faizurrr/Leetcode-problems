@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Faizurrr/Leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0397-integer-replacement](https://github.com/Faizurrr/Leetcode-problems/tree/master/0397-integer-replacement) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Faizurrr/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/4005-maximum-total-subarray-value-i) |
 | [4112-maximize-expression-of-three-elements](https://github.com/Faizurrr/Leetcode-problems/tree/master/4112-maximize-expression-of-three-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/Faizurrr/Leetcode-problems/tree/master/0397-integer-replacement) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Faizurrr/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Two Pointers
 |  |
@@ -128,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4112-maximize-expression-of-three-elements](https://github.com/Faizurrr/Leetcode-problems/tree/master/4112-maximize-expression-of-three-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Faizurrr/Leetcode-problems/tree/master/0397-integer-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Faizurrr/Leetcode-problems/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
