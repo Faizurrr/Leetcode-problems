@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Faizurrr/Leetcode-problems/tree/master/0278-first-bad-version) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Faizurrr/Leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Faizurrr/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Faizurrr/Leetcode-problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
