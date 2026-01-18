@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Faizurrr/Leetcode-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Faizurrr/Leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Faizurrr/Leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0817-linked-list-components](https://github.com/Faizurrr/Leetcode-problems/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Faizurrr/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1390-four-divisors](https://github.com/Faizurrr/Leetcode-problems/tree/master/1390-four-divisors) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Faizurrr/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/Faizurrr/Leetcode-problems/tree/master/0397-integer-replacement) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Faizurrr/Leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Faizurrr/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Faizurrr/Leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/4005-maximum-total-subarray-value-i) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Faizurrr/Leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0869-reordered-power-of-2](https://github.com/Faizurrr/Leetcode-problems/tree/master/0869-reordered-power-of-2) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Faizurrr/Leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Faizurrr/Leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Faizurrr/Leetcode-problems/tree/master/0397-integer-replacement) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Faizurrr/Leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Faizurrr/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Two Pointers
 |  |
