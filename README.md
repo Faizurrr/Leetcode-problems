@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Faizurrr/Leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0817-linked-list-components](https://github.com/Faizurrr/Leetcode-problems/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Faizurrr/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1200-minimum-absolute-difference](https://github.com/Faizurrr/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Faizurrr/Leetcode-problems/tree/master/1390-four-divisors) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Faizurrr/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Faizurrr/Leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Faizurrr/Leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0869-reordered-power-of-2](https://github.com/Faizurrr/Leetcode-problems/tree/master/0869-reordered-power-of-2) |
+| [1200-minimum-absolute-difference](https://github.com/Faizurrr/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Faizurrr/Leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Faizurrr/Leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [4107-find-missing-elements](https://github.com/Faizurrr/Leetcode-problems/tree/master/4107-find-missing-elements) |
