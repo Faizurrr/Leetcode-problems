@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Faizurrr/Leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Faizurrr/Leetcode-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Faizurrr/Leetcode-problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Faizurrr/Leetcode-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/4005-maximum-total-subarray-value-i) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0397-integer-replacement](https://github.com/Faizurrr/Leetcode-problems/tree/master/0397-integer-replacement) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Faizurrr/Leetcode-problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Memoization
 |  |
 | ------- |
