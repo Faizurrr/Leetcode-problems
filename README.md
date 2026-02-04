@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/Faizurrr/Leetcode-problems/tree/master/0869-reordered-power-of-2) |
+| [3827-count-monobit-integers](https://github.com/Faizurrr/Leetcode-problems/tree/master/3827-count-monobit-integers) |
 | [4112-maximize-expression-of-three-elements](https://github.com/Faizurrr/Leetcode-problems/tree/master/4112-maximize-expression-of-three-elements) |
 ## Bit Manipulation
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Faizurrr/Leetcode-problems/tree/master/0397-integer-replacement) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Faizurrr/Leetcode-problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3827-count-monobit-integers](https://github.com/Faizurrr/Leetcode-problems/tree/master/3827-count-monobit-integers) |
 ## Memoization
 |  |
 | ------- |
