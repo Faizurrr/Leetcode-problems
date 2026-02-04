@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Faizurrr/Leetcode-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Faizurrr/Leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/Faizurrr/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Faizurrr/Leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0817-linked-list-components](https://github.com/Faizurrr/Leetcode-problems/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Faizurrr/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Faizurrr/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Faizurrr/Leetcode-problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
