@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Faizurrr/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Faizurrr/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Faizurrr/Leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0781-rabbits-in-forest](https://github.com/Faizurrr/Leetcode-problems/tree/master/0781-rabbits-in-forest) |
 | [0817-linked-list-components](https://github.com/Faizurrr/Leetcode-problems/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Faizurrr/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1200-minimum-absolute-difference](https://github.com/Faizurrr/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Faizurrr/Leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Faizurrr/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Faizurrr/Leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0781-rabbits-in-forest](https://github.com/Faizurrr/Leetcode-problems/tree/master/0781-rabbits-in-forest) |
 | [0817-linked-list-components](https://github.com/Faizurrr/Leetcode-problems/tree/master/0817-linked-list-components) |
 | [0869-reordered-power-of-2](https://github.com/Faizurrr/Leetcode-problems/tree/master/0869-reordered-power-of-2) |
 | [1980-find-unique-binary-string](https://github.com/Faizurrr/Leetcode-problems/tree/master/1980-find-unique-binary-string) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/Faizurrr/Leetcode-problems/tree/master/0390-elimination-game) |
+| [0781-rabbits-in-forest](https://github.com/Faizurrr/Leetcode-problems/tree/master/0781-rabbits-in-forest) |
 | [0869-reordered-power-of-2](https://github.com/Faizurrr/Leetcode-problems/tree/master/0869-reordered-power-of-2) |
 | [1390-four-divisors](https://github.com/Faizurrr/Leetcode-problems/tree/master/1390-four-divisors) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Faizurrr/Leetcode-problems/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Faizurrr/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/Faizurrr/Leetcode-problems/tree/master/0397-integer-replacement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Faizurrr/Leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0781-rabbits-in-forest](https://github.com/Faizurrr/Leetcode-problems/tree/master/0781-rabbits-in-forest) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Faizurrr/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Faizurrr/Leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/4005-maximum-total-subarray-value-i) |
