@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Faizurrr/Leetcode-problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Faizurrr/Leetcode-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/4005-maximum-total-subarray-value-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Faizurrr/Leetcode-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Faizurrr/Leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Faizurrr/Leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Combinatorics
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Faizurrr/Leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
