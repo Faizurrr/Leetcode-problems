@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Faizurrr/Leetcode-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/4005-maximum-total-subarray-value-i) |
 | [4107-find-missing-elements](https://github.com/Faizurrr/Leetcode-problems/tree/master/4107-find-missing-elements) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/Faizurrr/Leetcode-problems/tree/master/0869-reordered-power-of-2) |
 | [1980-find-unique-binary-string](https://github.com/Faizurrr/Leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Faizurrr/Leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [4107-find-missing-elements](https://github.com/Faizurrr/Leetcode-problems/tree/master/4107-find-missing-elements) |
 ## Math
