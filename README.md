@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Faizurrr/Leetcode-problems/tree/master/1390-four-divisors) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Faizurrr/Leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Faizurrr/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Faizurrr/Leetcode-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1980-find-unique-binary-string](https://github.com/Faizurrr/Leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Faizurrr/Leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Faizurrr/Leetcode-problems/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Faizurrr/Leetcode-problems/tree/master/0278-first-bad-version) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Faizurrr/Leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0826-most-profit-assigning-work](https://github.com/Faizurrr/Leetcode-problems/tree/master/0826-most-profit-assigning-work) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Faizurrr/Leetcode-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Greedy
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Faizurrr/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0567-permutation-in-string](https://github.com/Faizurrr/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0826-most-profit-assigning-work](https://github.com/Faizurrr/Leetcode-problems/tree/master/0826-most-profit-assigning-work) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Faizurrr/Leetcode-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Enumeration
 |  |
 | ------- |
