@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/Faizurrr/Leetcode-problems/tree/master/0817-linked-list-components) |
 | [0846-hand-of-straights](https://github.com/Faizurrr/Leetcode-problems/tree/master/0846-hand-of-straights) |
 | [0869-reordered-power-of-2](https://github.com/Faizurrr/Leetcode-problems/tree/master/0869-reordered-power-of-2) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Faizurrr/Leetcode-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1980-find-unique-binary-string](https://github.com/Faizurrr/Leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Faizurrr/Leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Faizurrr/Leetcode-problems/tree/master/0390-elimination-game) |
 | [0781-rabbits-in-forest](https://github.com/Faizurrr/Leetcode-problems/tree/master/0781-rabbits-in-forest) |
 | [0869-reordered-power-of-2](https://github.com/Faizurrr/Leetcode-problems/tree/master/0869-reordered-power-of-2) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Faizurrr/Leetcode-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/Faizurrr/Leetcode-problems/tree/master/1390-four-divisors) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Faizurrr/Leetcode-problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Faizurrr/Leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
