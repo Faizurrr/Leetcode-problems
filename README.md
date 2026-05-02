@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0390-elimination-game](https://github.com/Faizurrr/Leetcode-problems/tree/master/0390-elimination-game) |
 | [0781-rabbits-in-forest](https://github.com/Faizurrr/Leetcode-problems/tree/master/0781-rabbits-in-forest) |
+| [0788-rotated-digits](https://github.com/Faizurrr/Leetcode-problems/tree/master/0788-rotated-digits) |
 | [0869-reordered-power-of-2](https://github.com/Faizurrr/Leetcode-problems/tree/master/0869-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Faizurrr/Leetcode-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/Faizurrr/Leetcode-problems/tree/master/1390-four-divisors) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0397-integer-replacement](https://github.com/Faizurrr/Leetcode-problems/tree/master/0397-integer-replacement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Faizurrr/Leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0788-rotated-digits](https://github.com/Faizurrr/Leetcode-problems/tree/master/0788-rotated-digits) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Faizurrr/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Two Pointers
 |  |
