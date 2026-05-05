@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Faizurrr/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Faizurrr/Leetcode-problems/tree/master/0061-rotate-list) |
 | [0817-linked-list-components](https://github.com/Faizurrr/Leetcode-problems/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Faizurrr/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Faizurrr/Leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/Faizurrr/Leetcode-problems/tree/master/0061-rotate-list) |
 | [0567-permutation-in-string](https://github.com/Faizurrr/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0826-most-profit-assigning-work](https://github.com/Faizurrr/Leetcode-problems/tree/master/0826-most-profit-assigning-work) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Faizurrr/Leetcode-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
