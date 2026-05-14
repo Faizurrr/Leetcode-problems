@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Faizurrr/Leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Faizurrr/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Faizurrr/Leetcode-problems/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2784-check-if-array-is-good](https://github.com/Faizurrr/Leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Faizurrr/Leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Faizurrr/Leetcode-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Faizurrr/Leetcode-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1980-find-unique-binary-string](https://github.com/Faizurrr/Leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Faizurrr/Leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2784-check-if-array-is-good](https://github.com/Faizurrr/Leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Faizurrr/Leetcode-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Faizurrr/Leetcode-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Faizurrr/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Faizurrr/Leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Faizurrr/Leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2784-check-if-array-is-good](https://github.com/Faizurrr/Leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Faizurrr/Leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [4107-find-missing-elements](https://github.com/Faizurrr/Leetcode-problems/tree/master/4107-find-missing-elements) |
 | [4112-maximize-expression-of-three-elements](https://github.com/Faizurrr/Leetcode-problems/tree/master/4112-maximize-expression-of-three-elements) |
