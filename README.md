@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Faizurrr/Leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Faizurrr/Leetcode-problems/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Faizurrr/Leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2540-minimum-common-value](https://github.com/Faizurrr/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Faizurrr/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Faizurrr/Leetcode-problems/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2784-check-if-array-is-good](https://github.com/Faizurrr/Leetcode-problems/tree/master/2784-check-if-array-is-good) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Faizurrr/Leetcode-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1980-find-unique-binary-string](https://github.com/Faizurrr/Leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Faizurrr/Leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2540-minimum-common-value](https://github.com/Faizurrr/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Faizurrr/Leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Faizurrr/Leetcode-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Faizurrr/Leetcode-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Faizurrr/Leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0826-most-profit-assigning-work](https://github.com/Faizurrr/Leetcode-problems/tree/master/0826-most-profit-assigning-work) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Faizurrr/Leetcode-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Faizurrr/Leetcode-problems/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Faizurrr/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0826-most-profit-assigning-work](https://github.com/Faizurrr/Leetcode-problems/tree/master/0826-most-profit-assigning-work) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Faizurrr/Leetcode-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Faizurrr/Leetcode-problems/tree/master/2540-minimum-common-value) |
 ## Enumeration
 |  |
 | ------- |
