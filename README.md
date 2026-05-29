@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/Faizurrr/Leetcode-problems/tree/master/0817-linked-list-components) |
 | [0826-most-profit-assigning-work](https://github.com/Faizurrr/Leetcode-problems/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/Faizurrr/Leetcode-problems/tree/master/0846-hand-of-straights) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Faizurrr/Leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Faizurrr/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1200-minimum-absolute-difference](https://github.com/Faizurrr/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Faizurrr/Leetcode-problems/tree/master/1390-four-divisors) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/Faizurrr/Leetcode-problems/tree/master/0817-linked-list-components) |
 | [0846-hand-of-straights](https://github.com/Faizurrr/Leetcode-problems/tree/master/0846-hand-of-straights) |
 | [0869-reordered-power-of-2](https://github.com/Faizurrr/Leetcode-problems/tree/master/0869-reordered-power-of-2) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Faizurrr/Leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Faizurrr/Leetcode-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1980-find-unique-binary-string](https://github.com/Faizurrr/Leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Faizurrr/Leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
